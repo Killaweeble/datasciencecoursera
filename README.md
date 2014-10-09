@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Course test
+Data Science Course
